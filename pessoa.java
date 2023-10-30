@@ -8,7 +8,8 @@ public class pessoa {
    public  pessoa(String _nome, String telefone, String endereco){
        this.nome = _nome;
        this.telefone = telefone;
-       this.endereco = telefone;
+       this.endereco = endereco;
+      
 
    }
 
